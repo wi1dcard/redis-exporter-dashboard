@@ -13,6 +13,6 @@ This dashboard is forked from [oliver006/redis_exporter](https://github.com/oliv
 
 ![](https://i.loli.net/2020/02/06/KjuvBrENebRqUwF.png)
 
-## Download
+## Downloads
 
-The dashboard is available [here](./dashboard.json).
+The dashboard is available [here](./dashboard.json), as well as the [raw JSON file](https://raw.githubusercontent.com/wi1dcard/redis-exporter-dashboard/master/dashboard.json).
